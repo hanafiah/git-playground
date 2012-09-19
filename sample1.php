@@ -1,7 +1,6 @@
 <?php
 function test(){
-	echo 'testing';
-	echo 'testing';
+	echo 'hello';
 }
 
 function test2(){
@@ -10,6 +9,9 @@ function test2(){
 
 function test3(){
 	phpinfo();
+}
+function test4(){
+echo 'hello 4';
 }
 
 ?>
