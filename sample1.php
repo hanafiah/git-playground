@@ -8,7 +8,7 @@ function test2(){
 }
 
 function test4(){
-	echo 'hello 4';
+	echo 'hi  4';
 }
 
 function test5(){
