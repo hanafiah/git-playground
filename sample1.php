@@ -6,7 +6,7 @@ function test(){
 }
 
 function test2(){
-	echo 'test';
+	echo 'zul';
 }
 
 function test4(){
