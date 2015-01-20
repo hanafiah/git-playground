@@ -6,7 +6,7 @@ function test(){
 }
 
 function test2(){
-	echo 'test';
+	echo 'hanafiah';
 }
 
 function test4(){
