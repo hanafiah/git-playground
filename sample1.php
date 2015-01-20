@@ -1,4 +1,6 @@
 <?php
+
+//edit by hanafiah 
 function test(){
 	echo 'hello';
 }
