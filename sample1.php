@@ -12,7 +12,7 @@ function test4(){
 }
 
 function test5(){
-	echo 'test5';
+	echo 'test54568';
 }
 
 ?>
