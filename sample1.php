@@ -6,11 +6,11 @@ function test(){
 }
 
 function test2(){
-	echo 'hanafiah';
+	echo 'zul & hanafiah';
 }
 
 function test4(){
-	echo 'hi  4';
+	echo 'farah;
 }
 
 function test5(){
